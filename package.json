@@ -1,0 +1,14 @@
+{
+  "name": "bsnl-bandwidth-usage",
+  "version": "0.0.0",
+  "description": "BSNL-Bandwidth-Usage",
+  "main": "app.js",
+  "author": {
+    "name": "Mayank",
+    "email": "mayank.raichura@gmail.com"
+  },
+  "dependencies": {
+    "mqtt": "^2.3.1",
+    "scrape-it": "^3.2.2"
+  }
+}
